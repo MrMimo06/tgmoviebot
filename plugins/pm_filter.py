@@ -352,7 +352,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 InlineKeyboardButton('channel', url='https://t.me/Moviereview_6')
             ],
             [
-                InlineKeyboardButton('Series & Movie Club', url=f'https://t.me/+y53tWFUw6Q43NzE9')
+                InlineKeyboardButton('Series & Movie Club', url=f'https://t.me/Moviereview6')
             ]
             ]
             
@@ -404,7 +404,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 InlineKeyboardButton('channel', url='https://t.me/Moviereview_6')
             ],
             [
-                InlineKeyboardButton('Series & Movie Club', url=f'https://t.me/+y53tWFUw6Q43NzE9')
+                InlineKeyboardButton('Series & Movie Club', url=f'https://t.me/Moviereview6')
             ]
             ]
         await query.answer()
